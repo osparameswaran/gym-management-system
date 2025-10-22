@@ -35,7 +35,23 @@ Before running this application, ensure you have:
 - 🔗 MySQL Connector/J (included in lib folder)
 
 ## 🚀 Quick Start
+## 🖼️ Application Screenshots
 
+### Main Interface
+![Main Interface](screenshots/main-ui.png)
+*Main application window showing member list and management controls*
+
+### Add Member Form
+![Add Member](screenshots/add-member.png)
+*Form for adding new gym members with validation*
+
+### Search Feature
+![Search Members](screenshots/search-feature.png)
+*Real-time search functionality by member name*
+
+### Expiry Checking
+![Expiry Check](screenshots/expiry-check.png)
+*Membership expiry detection and alerts*
 ### 1. Database Setup
 ```sql
 CREATE DATABASE gym_management;
