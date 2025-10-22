@@ -1,4 +1,4 @@
-# 🏋️ Gym Management System
+#  Gym Management System
 
 A comprehensive Java Swing application for managing gym memberships with MySQL database integration. This system provides a user-friendly interface for gym administrators to efficiently manage member records, track membership status, and monitor expiry dates.
 
@@ -7,18 +7,18 @@ A comprehensive Java Swing application for managing gym memberships with MySQL d
 ![Swing](https://img.shields.io/badge/Java_Swing-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-## ✨ Features
+##  Features
 
-- 👥 **Complete Member Management** - Add, update, delete, and view member details
-- 🔍 **Smart Search** - Search members by name with real-time results
-- 📅 **Expiry Tracking** - Automatic detection of memberships expiring soon (7-day warning)
-- 🎯 **Intelligent ID System** - Consecutive ID management that fills gaps automatically
-- 📊 **Status Management** - Track Active, Expired, and Suspended memberships
-- 💾 **MySQL Integration** - Secure and reliable database storage
-- 🎨 **User-Friendly GUI** - Clean and intuitive Swing interface
-- ✅ **Data Validation** - Email format, date range, and required field validation
+-  **Complete Member Management** - Add, update, delete, and view member details
+-  **Smart Search** - Search members by name with real-time results
+-  **Expiry Tracking** - Automatic detection of memberships expiring soon (7-day warning)
+-  **Intelligent ID System** - Consecutive ID management that fills gaps automatically
+-  **Status Management** - Track Active, Expired, and Suspended memberships
+-  **MySQL Integration** - Secure and reliable database storage
+-  **User-Friendly GUI** - Clean and intuitive Swing interface
+-  **Data Validation** - Email format, date range, and required field validation
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - **Backend**: Java 8+
 - **GUI Framework**: Java Swing
@@ -26,16 +26,16 @@ A comprehensive Java Swing application for managing gym memberships with MySQL d
 - **Database Connectivity**: JDBC
 - **Build Tool**: Manual compilation
 
-## 📋 Prerequisites
+##  Prerequisites
 
 Before running this application, ensure you have:
 
-- ☕ Java JDK 8 or higher
-- 🗄️ MySQL Server 5.7 or higher
-- 🔗 MySQL Connector/J (included in lib folder)
+-  Java JDK 8 or higher
+-  MySQL Server 5.7 or higher
+-  MySQL Connector/J (included in lib folder)
 
-## 🚀 Quick Start
-## 🖼️ Application Screenshots
+##  Quick Start
+##  Application Screenshots
 
 ### Main Interface
 ![Main Interface](screenshots/main-ui.png)
